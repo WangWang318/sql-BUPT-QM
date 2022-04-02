@@ -7,7 +7,7 @@
 ## sql语句
 
 1. 
-![png](images\1.png)
+![png](images\p1.png)
 
 2. ![png](images\2.png)
 3. ![png](images\1.png)
