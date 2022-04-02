@@ -26,4 +26,4 @@
 19. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p18.png)
 20. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p19.png)
 21. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p20.png)
-22. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p21.png)
+![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p21.png)
