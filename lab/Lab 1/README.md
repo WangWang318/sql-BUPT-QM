@@ -5,7 +5,6 @@
 ## 导入数据
 
 ## sql语句
-
 1. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p1.png)
 2. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p2.png)
 3. ![png](https://github.com/WangWang318/sql-BUPT-QM/blob/main/lab/Lab%201/images/p3.png)
